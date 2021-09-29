@@ -538,6 +538,8 @@ h1{
   .text-center{
     display: inline;
   }
+  #footer a{
+  padding-right:20px;}
 
   .title1{
     padding-top:none;
