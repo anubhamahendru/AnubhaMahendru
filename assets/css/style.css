@@ -475,6 +475,9 @@ h1{
   text-transform: uppercase;
   color: #fff;
 }
+.text-center{
+    display: inline;
+  }
 
 .hero-content p {
   font-size: 25px;
@@ -531,6 +534,9 @@ h1{
   div.content{
     padding:15px 0px 0px 30px;
   
+  }
+  .text-center{
+    display: inline;
   }
 
   .title1{
