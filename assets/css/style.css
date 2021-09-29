@@ -541,7 +541,8 @@ h1{
   }
   
   .text-center{
-    display: none;
+    display: block;
+    padding-right:0px;
   }
   .about-descr{
     padding-top: 20px;
