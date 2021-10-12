@@ -267,7 +267,7 @@ h1{
   color: #898989;
 }
 #header .logo img {
-  max-height: 40px;
+  max-height: 65px;
 }
 @media (max-width: 992px) {
   #header {
