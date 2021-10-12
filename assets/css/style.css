@@ -262,6 +262,7 @@ h1{
   letter-spacing: 1px;
   font-family: "Playfair Display", sans-serif;
   font-style: italic;
+  display:inline-flex;
 }
 #header .logo a {
   color: #898989;
