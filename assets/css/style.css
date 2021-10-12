@@ -21,7 +21,7 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
-#logo-one {
+#logo {
   display: inline-block;
   margin: 15px; /* margin: 20px was off */
   float: left;
