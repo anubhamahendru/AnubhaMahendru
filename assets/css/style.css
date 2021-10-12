@@ -21,12 +21,13 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
-#logo {
+.logo-one {
   display: inline-block;
   margin: 15px; /* margin: 20px was off */
   float: left;
-  height: 60px;
+  height: 70px;
   width: auto; /* correct proportions to specified height */
+  background-color:white;
   
 }
 .art{
