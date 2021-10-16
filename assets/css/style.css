@@ -25,13 +25,14 @@ body {
   display: inline-block;
   margin: 15px; /* margin: 20px was off */
   float: left;
-  height: 40px;
+  height: 35px;
   width: auto; /* correct proportions to specified height */
   background-color:white;
   
 }
 .anubha{
   padding-top:20px;
+  display:flex;
 }
 .art{
   padding-top: 10px;
