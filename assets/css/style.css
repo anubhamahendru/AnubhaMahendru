@@ -548,6 +548,13 @@ h1{
     padding:15px 0px 0px 30px;
   
   }
+  .anubha{
+   font-size:small;
+    display:contents;
+  }
+  #logo{
+   height:20px;
+  }
   .text-center{
     display: inline;
   }
